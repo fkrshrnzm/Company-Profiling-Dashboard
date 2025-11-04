@@ -3,7 +3,7 @@
 ---
 
 ![Company Profiling Dashboard](Company%20Profiling.png)
-<h4 align="center">This is the third dashboard I have developed during my Protege at Honda Malaysia</h4>
+<h4 align="center">This is the third dashboard I have developed during my Protege at Honda Malaysia for the Operation Management Department</h4>
 
 ---
 
